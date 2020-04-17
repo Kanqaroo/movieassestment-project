@@ -30,13 +30,13 @@
 30,2 wins.,9.0,"203,634",tt0877057,1,Death Note,Animation,"['Drama', 'Anime', 'Thriller', 'Mystery']",30.0,8.7,False,NTV,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
 32,Won 3 Golden Globes. Another 56 wins & 210 nominations.,8.9,"295,017",tt2802850,4,Fargo,Scripted,"['Drama', 'Crime']",60.0,9.0,False,FX,269,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 33,N/A,8.9,"81,031",tt0213338,1,Cowboy Bebop,Animation,"['Action', 'Adventure', 'Anime', 'Science-Fiction']",30.0,9.0,False,WOWOW,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-34,1 win & 3 nominations.,9.0,"13,011",tt2571774,1,Africa,Documentary,['Nature'],60.0,,False,BBC One,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+35,1 win & 3 nominations.,9.0,"13,011",tt2571774,1,Africa,Documentary,['Nature'],60.0,,False,BBC One,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 36,Won 2 Primetime Emmys. Another 19 wins & 66 nominations.,9.0,"65,312",tt7137906,1,When They See Us,Scripted,"['Drama', 'Crime']",60.0,8.2,Netflix,False,87,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 37,Won 16 Primetime Emmys. Another 34 wins & 51 nominations.,8.9,"73,222",tt3530232,7,Last Week Tonight with John Oliver,Talk Show,['Comedy'],30.0,8.7,False,HBO,101,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 38,N/A,9.2,"46,983",tt4742876,1,TVF Pitchers,Scripted,"['Drama', 'Comedy']",45.0,,TVFPlay,False,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 39,17 wins & 15 nominations.,8.9,"42,682",tt0081912,9,Only Fools and Horses,Scripted,['Comedy'],50.0,8.5,False,BBC One,32,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 40,2 wins.,8.9,"42,801",tt2098220,1,Hunter x Hunter,Animation,"['Action', 'Adventure', 'Anime', 'Fantasy']",25.0,8.3,False,NTV,2,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,Won 1 Golden Globe. Another 76 wins & 214 nominations.,8.9,"741,723",tt0108778,10,Friends,Scripted,"['Comedy', 'Romance']",30.0,8.6,False,NBC,291,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+41,Won 1 Golden Globe. Another 76 wins & 214 nominations.,8.9,"751,662",tt0108778,10,Friends,Scripted,"['Comedy', 'Romance']",30.0,8.6,False,NBC,291,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 42,Won 1 Golden Globe. Another 47 wins & 186 nominations.,8.9,"343,495",tt0386676,9,The Office,Scripted,['Comedy'],30.0,8.5,False,NBC,234,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 43,4 wins & 7 nominations.,8.8,"63,667",tt0063929,4,Monty Python's Flying Circus,Variety,['Comedy'],30.0,8.9,False,BBC One,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 44,3 wins.,8.9,"23,276",tt0081834,1,Das Boot,Scripted,"['Action', 'Thriller', 'War']",55.0,9.0,False,Das Erste,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
@@ -70,26 +70,26 @@
 76,Nominated for 4 Golden Globes. Another 47 wins & 149 nominations.,8.7,"381,210",tt0475784,3,Westworld,Scripted,"['Drama', 'Science-Fiction', 'Western']",60.0,8.6,False,HBO,200,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
 77,N/A,8.8,"7,450",tt0158417,1,Mahabharat,Scripted,['Drama'],45.0,,False,DD National,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 78,Won 1 Primetime Emmy. Another 6 wins & 5 nominations.,8.7,"14,877",tt0074006,1,"I, Claudius",Scripted,"['Drama', 'History']",50.0,9.8,False,BBC Two,12,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80,Won 3 Golden Globes. Another 62 wins & 98 nominations.,8.7,"63,278",tt5788792,4,The Marvelous Mrs. Maisel,Scripted,"['Drama', 'Comedy']",60.0,8.5,Amazon Prime,False,163,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81,1 win & 2 nominations.,8.7,"134,840",tt1190634,1,The Boys,Scripted,"['Drama', 'Action', 'Science-Fiction']",60.0,8.6,Amazon Prime,False,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+79,Won 3 Golden Globes. Another 62 wins & 98 nominations.,8.7,"63,278",tt5788792,4,The Marvelous Mrs. Maisel,Scripted,"['Drama', 'Comedy']",60.0,8.5,Amazon Prime,False,163,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,1 win & 2 nominations.,8.7,"134,840",tt1190634,1,The Boys,Scripted,"['Drama', 'Action', 'Science-Fiction']",60.0,8.6,Amazon Prime,False,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 82,5 wins & 17 nominations.,8.7,"164,958",tt5753856,3,Dark,Scripted,"['Drama', 'Supernatural']",60.0,8.0,Netflix,False,22,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 83,Won 1 Golden Globe. Another 20 wins & 126 nominations.,8.7,"93,369",tt0264235,10,Curb Your Enthusiasm,Scripted,['Comedy'],30.0,8.1,False,HBO,147,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 84,Won 2 Golden Globes. Another 44 wins & 45 nominations.,8.7,"65,146",tt5687612,2,Fleabag,Scripted,"['Drama', 'Comedy']",30.0,8.4,BBC Three,False,91,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 85,3 wins & 7 nominations.,8.7,"142,475",tt8111088,2,The Mandalorian,Scripted,"['Action', 'Adventure', 'Science-Fiction']",,8.5,Disney+,False,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 87,N/A,9.1,"11,623",tt1518542,2,Sarabhai vs Sarabhai,Scripted,['Comedy'],25.0,,Hotstar,False,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 88,Won 2 Primetime Emmys. Another 5 wins & 5 nominations.,8.7,"35,711",tt4299972,1,The Jinx: The Life and Deaths of Robert Durst,Documentary,"['Crime', 'Mystery']",45.0,7.6,False,HBO,12,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-90,N/A,8.7,"18,657",tt0086661,2,Sherlock Holmes,Scripted,"['Drama', 'Crime', 'Mystery']",60.0,8.8,False,ITV,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-91,Nominated for 3 Golden Globes. Another 27 wins & 147 nominations.,8.7,"274,875",tt3032476,6,Better Call Saul,Scripted,"['Drama', 'Crime', 'Legal']",60.0,8.7,False,AMC,177,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+89,N/A,8.7,"18,657",tt0086661,2,Sherlock Holmes,Scripted,"['Drama', 'Crime', 'Mystery']",60.0,8.8,False,ITV,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+90,Nominated for 3 Golden Globes. Another 27 wins & 147 nominations.,8.7,"274,875",tt3032476,6,Better Call Saul,Scripted,"['Drama', 'Crime', 'Legal']",60.0,8.7,False,AMC,177,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 92,Won 3 Golden Globes. Another 55 wins & 162 nominations.,8.7,"114,650",tt0248654,5,Six Feet Under,Scripted,"['Drama', 'Comedy']",60.0,8.6,False,HBO,220,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 93,22 wins & 26 nominations.,8.7,"18,832",tt0459159,5,The Thick of It,Scripted,['Comedy'],30.0,8.1,False,BBC Four,48,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95,Won 5 Primetime Emmys. Another 12 wins & 83 nominations.,8.7,"316,276",tt0121955,23,South Park,Animation,['Comedy'],30.0,8.6,False,Comedy Central,100,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Won 5 Primetime Emmys. Another 12 wins & 83 nominations.,8.7,"316,276",tt0121955,23,South Park,Animation,['Comedy'],30.0,8.6,False,Comedy Central,100,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 96,Nominated for 2 Primetime Emmys. Another 23 wins & 26 nominations.,8.7,"90,845",tt3398228,6,BoJack Horseman,Animation,"['Drama', 'Comedy']",25.0,8.2,Netflix,False,51,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 97,Nominated for 1 Golden Globe. Another 168 wins & 302 nominations.,8.7,"328,282",tt0096697,31,The Simpsons,Animation,"['Comedy', 'Family']",30.0,8.3,False,FOX,471,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 98,1 win.,8.8,"9,599",tt9335498,1,Demon Slayer: Kimetsu no Yaiba,Animation,"['Drama', 'Action', 'Anime', 'Fantasy']",30.0,8.0,False,Tokyo MX,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 99,Won 2 Golden Globes. Another 55 wins & 138 nominations.,8.7,"393,418",tt0412142,8,House,Scripted,"['Drama', 'Mystery', 'Medical']",60.0,9.0,False,FOX,195,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-103,Won 3 Golden Globes. Another 54 wins & 130 nominations.,8.7,"108,618",tt4786824,4,The Crown,Scripted,"['Drama', 'History']",60.0,8.4,Netflix,False,187,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104,Won 3 Primetime Emmys. Another 38 wins & 91 nominations.,8.7,"146,680",tt0407362,4,Battlestar Galactica,Scripted,"['Drama', 'Science-Fiction', 'War']",60.0,9.0,False,Syfy,132,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
-105,1 nomination.,8.9,"6,473",tt5099020,3,Aranyélet,Scripted,"['Drama', 'Crime']",60.0,9.2,HBO Go CEE,HBO,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Won 3 Golden Globes. Another 54 wins & 130 nominations.,8.7,"108,618",tt4786824,4,The Crown,Scripted,"['Drama', 'History']",60.0,8.4,Netflix,False,187,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,Won 3 Primetime Emmys. Another 38 wins & 91 nominations.,8.7,"146,680",tt0407362,4,Battlestar Galactica,Scripted,"['Drama', 'Science-Fiction', 'War']",60.0,9.0,False,Syfy,132,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+104,1 nomination.,8.9,"6,473",tt5099020,3,Aranyélet,Scripted,"['Drama', 'Crime']",60.0,9.2,HBO Go CEE,HBO,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 106,1 nomination.,9.4,"6,467",tt4834232,12,Critical Role,Game Show,"['Adventure', 'Fantasy']",240.0,,twitch,False,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 107,3 wins & 9 nominations.,8.7,"59,411",tt0388629,20,One Piece,Animation,"['Action', 'Adventure', 'Anime', 'Fantasy']",30.0,9.0,False,Fuji TV,12,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 109,Won 2 Golden Globes. Another 13 wins & 59 nominations.,8.7,"68,205",tt0286486,7,The Shield,Scripted,"['Drama', 'Crime']",60.0,8.9,False,FX,74,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -119,8 +119,8 @@
 138,Nominated for 1 Primetime Emmy. Another 4 wins & 22 nominations.,8.6,"180,032",tt5290382,2,MINDHUNTER,Scripted,"['Drama', 'Crime', 'Thriller']",60.0,8.5,Netflix,False,27,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 139,N/A,8.6,"29,913",tt0053488,3,The Bugs Bunny Show,Animation,"['Comedy', 'Family']",30.0,,False,ABC,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 140,Won 4 Primetime Emmys. Another 9 wins & 13 nominations.,8.6,"81,529",tt5189670,2,Making a Murderer,Documentary,['Crime'],63.0,8.6,Netflix,False,26,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-141,N/A,8.6,"11,177",tt0403778,N/A,Long Way Round,Documentary,"['Adventure', 'Travel']",60.0,,False,Sky 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-142,1 nomination.,9.2,"16,543",tt8595766,1,Yeh Meri Family,Scripted,"['Drama', 'Comedy', 'Family']",30.0,,TVFPlay,False,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,1 nomination.,9.2,"16,543",tt8595766,1,Yeh Meri Family,Scripted,"['Drama', 'Comedy', 'Family']",30.0,,TVFPlay,False,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,N/A,8.6,"11,177",tt0403778,N/A,Long Way Round,Documentary,"['Adventure', 'Travel']",60.0,,False,Sky 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 143,9 wins & 35 nominations.,8.6,"49,335",tt0387764,9,Peep Show,Scripted,['Comedy'],30.0,8.5,False,Channel 4,44,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 144,N/A,8.6,"10,738",tt2244495,4,The Eric André Show,Talk Show,['Comedy'],15.0,7.4,False,Adult Swim,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 145,1 nomination.,8.6,"28,147",tt0417349,1,North & South,Scripted,"['Drama', 'Romance']",60.0,8.8,False,BBC One,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -132,21 +132,21 @@
 152,Nominated for 2 Golden Globes. Another 9 wins & 30 nominations.,8.6,"99,392",tt1870479,3,The Newsroom,Scripted,['Drama'],60.0,8.7,False,HBO,41,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 153,2 wins & 6 nominations.,8.6,"47,841",tt0187664,2,Spaced,Scripted,['Comedy'],30.0,8.5,False,Channel 4,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 154,6 wins & 3 nominations.,8.6,"11,393",tt0080306,3,Yes Minister,Scripted,['Comedy'],30.0,8.7,False,BBC Two,9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-156,N/A,8.6,"17,714",tt0434706,1,Monster,Animation,"['Drama', 'Anime', 'Crime', 'Horror']",25.0,8.6,False,NTV,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,N/A,8.6,"17,714",tt0434706,1,Monster,Animation,"['Drama', 'Anime', 'Crime', 'Horror']",25.0,8.6,False,NTV,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 157,N/A,8.8,"6,553",tt4269716,2,Umbre,Scripted,"['Drama', 'Crime']",60.0,7.8,HBO Go CEE,False,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-158,16 wins & 15 nominations.,8.7,"25,581",tt5288312,4,Skam,Scripted,"['Drama', 'Romance']",30.0,8.3,False,NRK1,31,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-159,1 win & 1 nomination.,8.6,"7,435",tt0229889,8,El Chavo del Ocho,Scripted,"['Drama', 'Comedy', 'Adventure']",30.0,,False,Telesistema Mexicano,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,1 win & 1 nomination.,8.6,"7,435",tt0229889,8,El Chavo del Ocho,Scripted,"['Drama', 'Comedy', 'Adventure']",30.0,,False,Telesistema Mexicano,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,16 wins & 15 nominations.,8.7,"25,581",tt5288312,4,Skam,Scripted,"['Drama', 'Romance']",30.0,8.3,False,NRK1,31,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 160,3 nominations.,8.6,"8,933",tt0118273,2,Brass Eye,Scripted,['Comedy'],30.0,,False,Channel 4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 161,2 nominations.,8.7,"24,814",tt1795096,3,Behzat Ç. Bir Ankara Polisiyesi,Scripted,"['Drama', 'Action', 'Crime']",90.0,,BluTV,False,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 162,Won 1 Golden Globe. Another 21 wins & 33 nominations.,8.6,"10,374",tt0120570,1,From the Earth to the Moon,Documentary,['Drama'],60.0,7.8,False,HBO,55,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 163,Nominated for 1 Primetime Emmy. Another 6 wins & 16 nominations.,8.6,"34,953",tt0094525,13,Agatha Christie's Poirot,Scripted,"['Drama', 'Crime', 'Mystery']",90.0,8.7,False,ITV,23,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 164,3 wins.,8.6,"57,882",tt0421357,1,Fullmetal Alchemist,Animation,"['Action', 'Adventure', 'Anime']",30.0,8.5,False,Animax,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 165,Won 2 Primetime Emmys. Another 8 wins & 66 nominations.,8.6,"80,662",tt1489428,6,Justified,Scripted,"['Drama', 'Crime', 'Western']",60.0,8.8,False,FX,76,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-166,Nominated for 2 Golden Globes. Another 14 wins & 64 nominations.,8.6,"186,780",tt1586680,11,Shameless,Scripted,"['Drama', 'Comedy', 'Crime']",60.0,8.6,False,Showtime,80,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,Nominated for 2 Golden Globes. Another 14 wins & 64 nominations.,8.6,"188,287",tt1586680,11,Shameless,Scripted,"['Drama', 'Comedy', 'Crime']",60.0,8.6,False,Showtime,80,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 168,Won 5 Primetime Emmys. Another 4 wins & 4 nominations.,8.6,"79,268",tt9561862,2,"Love, Death & Robots",Animation,"['Horror', 'Science-Fiction', 'Thriller']",15.0,8.2,Netflix,False,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
 169,115 wins & 205 nominations.,8.6,"192,582",tt0436992,12,Doctor Who,Scripted,"['Drama', 'Adventure', 'Science-Fiction']",50.0,8.5,False,BBC One,320,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-170,N/A,8.5,"43,562",tt0112159,1,Neon Genesis Evangelion,Animation,"['Drama', 'Action', 'Anime', 'Science-Fiction']",25.0,8.4,False,TV Tokyo,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-171,Nominated for 2 Primetime Emmys. Another 9 nominations.,8.5,"38,816",tt0275137,5,Justice League Unlimited,Animation,"['Action', 'Adventure', 'Science-Fiction']",30.0,8.8,False,Cartoon Network,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+170,Nominated for 2 Primetime Emmys. Another 9 nominations.,8.5,"38,816",tt0275137,5,Justice League Unlimited,Animation,"['Action', 'Adventure', 'Science-Fiction']",30.0,8.8,False,Cartoon Network,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+171,N/A,8.5,"43,562",tt0112159,1,Neon Genesis Evangelion,Animation,"['Drama', 'Action', 'Anime', 'Science-Fiction']",25.0,8.4,False,TV Tokyo,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 172,Won 8 Primetime Emmys. Another 18 wins & 48 nominations.,8.6,"70,569",tt1305826,10,Adventure Time,Animation,"['Comedy', 'Adventure', 'Children']",15.0,8.2,False,Cartoon Network,74,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 173,Won 2 Golden Globes. Another 62 wins & 183 nominations.,8.5,"165,476",tt0979432,5,Boardwalk Empire,Scripted,"['Drama', 'Crime']",60.0,8.7,False,HBO,247,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 174,N/A,8.6,"7,584",tt1494191,1,Oliver Stone's Untold History of the United States,Documentary,['History'],60.0,8.7,False,Showtime,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -158,7 +158,7 @@
 181,16 wins & 37 nominations.,8.6,"23,555",tt5421602,3,Anne with an E,Scripted,"['Drama', 'Family', 'History']",60.0,8.5,False,CBC,53,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 182,5 wins & 7 nominations.,8.6,"8,441",tt0086831,2,"Yes, Prime Minister",Scripted,['Comedy'],30.0,8.6,False,BBC Two,12,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 183,Nominated for 2 Primetime Emmys. Another 4 wins & 13 nominations.,8.5,"22,414",tt0094517,11,Mystery Science Theater 3000,Scripted,['Comedy'],120.0,8.3,False,Syfy,19,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-185,Nominated for 5 Primetime Emmys. Another 7 wins & 8 nominations.,8.6,"9,867",tt6958022,1,The Defiant Ones,Documentary,"['Music', 'History']",60.0,6.5,False,HBO,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+185,Nominated for 5 Primetime Emmys. Another 7 wins & 8 nominations.,8.6,"10,235",tt6958022,1,The Defiant Ones,Documentary,"['Music', 'History']",60.0,6.5,False,HBO,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 186,Won 3 Primetime Emmys. Another 10 wins & 19 nominations.,8.5,"45,348",tt0995832,1,Generation Kill,Scripted,"['Drama', 'War']",60.0,8.4,False,HBO,32,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 187,8 wins & 18 nominations.,8.5,"124,656",tt0487831,5,The IT Crowd,Scripted,['Comedy'],30.0,8.8,False,Channel 4,26,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 188,N/A,8.6,"4,749",tt0315008,1,Great Teacher Onizuka,Animation,"['Drama', 'Comedy', 'Anime']",30.0,7.7,False,Fuji TV,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -172,9 +172,9 @@
 196,Nominated for 2 Golden Globes. Another 15 wins & 88 nominations.,8.5,"115,889",tt2575988,6,Silicon Valley,Scripted,['Comedy'],30.0,8.5,False,HBO,105,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 197,Won 2 Golden Globes. Another 18 wins & 77 nominations.,8.5,"307,790",tt4158110,4,Mr. Robot,Scripted,"['Drama', 'Crime', 'Thriller']",60.0,8.4,False,USA Network,97,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 198,4 nominations.,8.6,"16,202",tt2701582,8,Endeavour,Scripted,"['Drama', 'Crime', 'Mystery']",120.0,8.8,False,ITV,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-199,Won 1 Primetime Emmy. Another 1 win & 6 nominations.,8.5,"38,712",tt0163507,7,Whose Line Is It Anyway?,Variety,"['Comedy', 'Family']",30.0,7.9,False,The CW,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-200,2 wins & 2 nominations.,8.6,"9,133",tt4082744,3,Detectorists,Scripted,['Comedy'],30.0,8.7,False,BBC Four,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-201,11 wins & 22 nominations.,8.6,"10,117",tt4647692,8,Letterkenny,Scripted,['Comedy'],30.0,7.9,CraveTV,False,33,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,11 wins & 22 nominations.,8.6,"10,117",tt4647692,8,Letterkenny,Scripted,['Comedy'],30.0,7.9,CraveTV,False,33,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,Won 1 Primetime Emmy. Another 1 win & 6 nominations.,8.5,"38,712",tt0163507,7,Whose Line Is It Anyway?,Variety,"['Comedy', 'Family']",30.0,7.9,False,The CW,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,2 wins & 2 nominations.,8.6,"9,133",tt4082744,3,Detectorists,Scripted,['Comedy'],30.0,8.7,False,BBC Four,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 202,Won 4 Primetime Emmys. Another 21 wins & 82 nominations.,8.5,"11,026",tt0106028,7,Homicide: Life on the Street,Scripted,"['Drama', 'Crime']",60.0,9.0,False,NBC,107,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 203,Nominated for 2 Primetime Emmys. Another 1 win & 5 nominations.,8.5,"13,902",tt5425186,1,Horace and Pete,Scripted,"['Drama', 'Comedy']",70.0,8.0,LouisCK.net,False,8,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 204,Nominated for 1 Primetime Emmy. Another 1 win & 3 nominations.,8.5,"120,270",tt1758429,1,Spartacus: Gods of the Arena,Scripted,"['Action', 'Adventure']",60.0,8.8,False,Starz,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -182,18 +182,18 @@
 206,Nominated for 1 Primetime Emmy. Another 1 win & 11 nominations.,8.5,"165,510",tt5675620,2,Marvel's The Punisher,Scripted,"['Drama', 'Action', 'Crime']",60.0,8.4,Netflix,False,13,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 207,Won 2 Golden Globes. Another 22 wins & 15 nominations.,8.5,"92,050",tt0290978,3,The Office,Scripted,['Comedy'],30.0,7.8,False,BBC Two,39,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 208,Won 4 Golden Globes. Another 47 wins & 35 nominations.,8.5,"26,472",tt0472027,1,John Adams,Scripted,"['Drama', 'History']",70.0,8.4,False,HBO,86,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-209,1 win & 1 nomination.,9.9,"4,999",tt9471404,1,The Chosen,Scripted,"['Drama', 'History']",50.0,,VidAngel,False,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-210,3 wins & 3 nominations.,8.5,"51,524",tt0262150,3,Black Books,Scripted,['Comedy'],25.0,8.6,False,Channel 4,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-211,5 wins & 6 nominations.,8.5,"16,415",tt0129690,N/A,I'm Alan Partridge,Scripted,['Comedy'],30.0,8.2,False,BBC Two,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-212,N/A,8.6,"15,660",tt9544034,1,The Family Man,Scripted,"['Drama', 'Action', 'Thriller']",45.0,7.3,Amazon Prime,False,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-213,Won 1 Golden Globe. Another 10 wins & 55 nominations.,8.6,"240,700",tt1124373,7,Sons of Anarchy,Scripted,"['Drama', 'Action', 'Crime']",60.0,8.7,False,FX,66,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,3 wins & 3 nominations.,8.5,"51,524",tt0262150,3,Black Books,Scripted,['Comedy'],25.0,8.6,False,Channel 4,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,5 wins & 6 nominations.,8.5,"16,415",tt0129690,N/A,I'm Alan Partridge,Scripted,['Comedy'],30.0,8.2,False,BBC Two,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,N/A,8.6,"15,660",tt9544034,1,The Family Man,Scripted,"['Drama', 'Action', 'Thriller']",45.0,7.3,Amazon Prime,False,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+212,Won 1 Golden Globe. Another 10 wins & 55 nominations.,8.6,"240,700",tt1124373,7,Sons of Anarchy,Scripted,"['Drama', 'Action', 'Crime']",60.0,8.7,False,FX,66,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,1 win & 1 nomination.,9.9,"4,999",tt9471404,1,The Chosen,Scripted,"['Drama', 'History']",50.0,,VidAngel,False,2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 214,Won 7 Primetime Emmys. Another 5 wins & 18 nominations.,8.6,"13,027",tt7259746,4,Queer Eye,Reality,['Comedy'],45.0,8.0,Netflix,False,30,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 215,6 wins & 10 nominations.,8.5,"12,893",tt0118266,2,The New Batman Adventures,Animation,"['Action', 'Adventure', 'Science-Fiction']",30.0,8.6,False,The WB,16,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 216,Nominated for 13 Primetime Emmys. Another 32 wins & 97 nominations.,8.6,"380,108",tt2306299,6,Vikings,Scripted,"['Drama', 'Action', 'History']",60.0,8.7,False,History,142,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 217,1 win & 3 nominations.,8.5,"21,027",tt5249462,1,Boku dake ga Inai Machi,Animation,"['Anime', 'Fantasy', 'Thriller', 'Mystery']",30.0,8.0,False,Fuji TV,4,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
 218,Won 1 Primetime Emmy. Another 8 wins & 4 nominations.,8.5,"40,597",tt1227926,N/A,Dr. Horrible's Sing-Along Blog,Scripted,"['Comedy', 'Music', 'Science-Fiction']",13.0,8.3,Hulu,False,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
-219,4 wins & 16 nominations.,8.5,"213,433",tt1442449,3,Spartacus,Scripted,"['Action', 'Adventure', 'History']",60.0,8.7,False,Starz,20,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-220,2 wins & 8 nominations.,8.6,"71,583",tt0988824,24,Naruto: Shippuuden,Animation,"['Action', 'Adventure', 'Anime', 'Fantasy']",30.0,8.8,Crunchyroll,TV Tokyo,10,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,2 wins & 8 nominations.,8.6,"71,583",tt0988824,24,Naruto: Shippuuden,Animation,"['Action', 'Adventure', 'Anime', 'Fantasy']",30.0,8.8,Crunchyroll,TV Tokyo,10,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,4 wins & 16 nominations.,8.5,"213,433",tt1442449,3,Spartacus,Scripted,"['Action', 'Adventure', 'History']",60.0,8.7,False,Starz,20,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 221,Nominated for 3 Golden Globes. Another 19 wins & 45 nominations.,8.6,"13,957",tt7562112,2,Pose,Scripted,['Drama'],60.0,7.6,False,FX,67,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 222,2 wins & 1 nomination.,8.6,"11,711",tt3895150,1,Shigatsu wa Kimi no Uso,Animation,"['Drama', 'Anime', 'Music', 'Romance']",30.0,7.8,False,Fuji TV,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
 223,6 wins & 6 nominations.,8.5,"24,131",tt5626028,4,Boku no Hero Academia,Animation,"['Comedy', 'Action', 'Adventure', 'Anime']",25.0,8.3,False,MBS,12,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -202,17 +202,17 @@
 226,Nominated for 4 Golden Globes. Another 8 wins & 82 nominations.,8.5,"15,296",tt1984119,2,Feud,Scripted,['Drama'],60.0,7.6,False,FX,94,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 227,Nominated for 1 Golden Globe. Another 8 wins & 29 nominations.,8.5,"41,320",tt2937900,2,The Knick,Scripted,"['Drama', 'Medical']",60.0,8.5,False,Cinemax,38,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 228,Won 1 Primetime Emmy. Another 16 wins & 69 nominations.,8.5,"182,041",tt1439629,6,Community,Scripted,['Comedy'],30.0,8.2,YAHOO! View,False,86,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-230,1 win.,8.5,"17,093",tt0346314,2,Ghost in the Shell: Stand Alone Complex,Animation,"['Action', 'Anime', 'Science-Fiction', 'Thriller']",30.0,8.1,False,Animax,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+229,1 win.,8.6,"5,205",tt0988818,11,Gintama,Animation,"['Comedy', 'Action', 'Anime']",25.0,8.7,False,TV Tokyo,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 232,5 nominations.,8.5,"22,628",tt0417373,7,The Venture Bros.,Animation,"['Comedy', 'Adventure']",30.0,8.9,False,Adult Swim,5,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-233,1 win.,8.6,"5,205",tt0988818,11,Gintama,Animation,"['Comedy', 'Action', 'Anime']",25.0,8.7,False,TV Tokyo,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,1 win.,8.5,"17,093",tt0346314,2,Ghost in the Shell: Stand Alone Complex,Animation,"['Action', 'Anime', 'Science-Fiction', 'Thriller']",30.0,8.1,False,Animax,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
 234,N/A,8.5,"16,597",tt0182629,3,Rurouni Kenshin,Animation,"['Drama', 'Action', 'Anime', 'Fantasy']",25.0,7.9,False,Fuji TV,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 235,Won 8 Primetime Emmys. Another 12 wins & 12 nominations.,8.5,"42,362",tt0278238,5,Samurai Jack,Animation,"['Action', 'Adventure']",30.0,9.0,False,Adult Swim,32,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-236,17 wins & 56 nominations.,8.6,"15,783",tt2433738,7,Wentworth,Scripted,"['Drama', 'Crime']",60.0,8.7,False,Showcase,73,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-237,22 wins & 8 nominations.,8.5,"23,240",tt1883092,1,"Unsere Mütter, unsere Väter",Scripted,"['Drama', 'Action', 'War']",90.0,8.7,False,ZDF,30,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+237,17 wins & 56 nominations.,8.6,"15,783",tt2433738,7,Wentworth,Scripted,"['Drama', 'Crime']",60.0,8.7,False,Showcase,73,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,22 wins & 8 nominations.,8.5,"23,240",tt1883092,1,"Unsere Mütter, unsere Väter",Scripted,"['Drama', 'Action', 'War']",90.0,8.7,False,ZDF,30,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 239,9 wins & 6 nominations.,8.6,"7,109",tt5994364,1,Goblin,Scripted,"['Drama', 'Fantasy', 'Romance']",60.0,9.0,False,tvN,15,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 240,9 wins & 8 nominations.,8.5,"5,378",tt2147995,7,Der Tatortreiniger,Scripted,['Comedy'],30.0,8.8,False,NDR,17,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-241,5 wins & 1 nomination.,8.5,"10,586",tt2674806,6,Inside No. 9,Scripted,"['Comedy', 'Thriller', 'Supernatural']",30.0,8.4,False,BBC Two,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
-242,2 wins.,8.5,"10,495",tt0807832,1,Mushi-Shi,Animation,"['Drama', 'Anime', 'Fantasy']",25.0,,False,Tokyo MX,2,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,2 wins.,8.5,"10,495",tt0807832,1,Mushi-Shi,Animation,"['Drama', 'Anime', 'Fantasy']",25.0,,False,Tokyo MX,2,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,5 wins & 1 nomination.,8.5,"10,586",tt2674806,6,Inside No. 9,Scripted,"['Comedy', 'Thriller', 'Supernatural']",30.0,8.4,False,BBC Two,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
 244,4 wins & 3 nominations.,8.6,"23,645",tt1534360,2,Ezel,Scripted,"['Drama', 'Crime', 'Thriller']",90.0,,False,ATV,7,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 245,N/A,8.4,"35,759",tt0103584,5,X-Men,Animation,"['Children', 'Science-Fiction']",30.0,8.2,False,FOX,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 246,Won 6 Primetime Emmys. Another 24 wins & 56 nominations.,8.4,"205,001",tt0149460,7,Futurama,Animation,"['Comedy', 'Adventure', 'Science-Fiction']",30.0,9.0,False,Comedy Central,86,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
